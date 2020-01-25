@@ -1,5 +1,5 @@
 # ImportExcelIntoDataBase
-ease way considered as an engine to import any excel to any table into data base , that have auto increment id
+easy way considered as an engine to import any excel to any table into data base , that have auto increment id
 
 based on excel comments 
 in new version i will add table dynamicly or you can change it 
